@@ -1,5 +1,7 @@
 ---
-titel: "My Website"
+titel: "Montesino-SanMartin, Manuel"
 ---
 
-Hello, Website! Welcome to the world
+![](images/mmontesinosanmartin.jpg){width="146"}
+
+Hi there! My name is Manuel Montesino-SanMartin. I love statistics, math, and programming. That's the backbone of my diversified research.

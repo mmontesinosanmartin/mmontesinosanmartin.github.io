@@ -4,6 +4,19 @@ navbar:
   left:
     - text: "Home"
       href: index.html
+    - text: "Research"
+      href: research.html
+  rigth:
+    - icon: fa-envelope fa-lg
+      href: contact.html
+    - icon: ai-google-scholar ai-lg
+      href: https://scholar.google.com/citations?user=UDXwO9oAAAAJ&hl=es&oi=ao
+    - icon: fa-github fa-lg
+      href: https://github.com/mmontesinosanmartin
+    - icon: fa-twitter fa-lg
+      href: https://twitter.com/montesino_man
+    - icon: fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/montesino1agro/
 output:
   html_document:
     theme: "paper"
