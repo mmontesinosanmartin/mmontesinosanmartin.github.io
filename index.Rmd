@@ -4,4 +4,13 @@ titel: "Montesino-SanMartin, Manuel"
 
 ![](images/mmontesinosanmartin.jpg){width="146"}
 
-Hi there! My name is Manuel Montesino-SanMartin. I love statistics, math, and programming. That's the backbone of my diversified research.
+Hi there! My name is Manuel Montesino-SanMartin. I love statistics, math, and
+programming. That's the backbone of my diverse research!
+
+I've got a PhD in Climate Change at the University of Copenhagen. My research
+looked at the uncertainties in agricultural impact and adaptation assessments
+of climate change. Right after, I started exploring the seasonal forecasts of
+crop yields using crop models, weather data, and remote sensing. The journey
+lead me to deepen into satellite imagery pre-processing at the Public
+University of Navarre. This where I've been doing my latest teaching and
+research.
